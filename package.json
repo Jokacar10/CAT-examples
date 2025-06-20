@@ -38,7 +38,7 @@
     "ecurve": "^1.0.6",
     "js-sha256": "^0.9.0",
     "scrypt-ts": "latest",
-    "scrypt-ts-lib-btc": "^0.1.0",
+    "scrypt-ts-lib-btc": "^0.1.3",
     "varuint-bitcoin": "^2.0.0"
   },
   "devDependencies": {
