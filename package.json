@@ -37,7 +37,7 @@
     "ecpair": "^2.1.0",
     "ecurve": "^1.0.6",
     "js-sha256": "^0.9.0",
-    "scrypt-ts": "latest",
+    "scrypt-ts": "1.4.5",
     "scrypt-ts-lib-btc": "^0.1.0",
     "varuint-bitcoin": "^2.0.0"
   },
